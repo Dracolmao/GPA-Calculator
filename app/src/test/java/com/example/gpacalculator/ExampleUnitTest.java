@@ -1,4 +1,4 @@
-package com.example.applicationnumber1;
+package com.example.gpacalculator;
 
 import org.junit.Test;
 

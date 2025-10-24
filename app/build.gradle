@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace 'com.example.applicationnumber1'
+    namespace 'com.example.gpacalculator'
     compileSdkVersion 36
 
     defaultConfig {
-        applicationId "com.example.applicationnumber1"
+        applicationId "com.example.gpacalculator"
         minSdkVersion 21
         targetSdkVersion 36
         versionCode 1
